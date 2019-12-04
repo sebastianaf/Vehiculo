@@ -9,6 +9,8 @@ package carro;
  *
  * @author sebas
  */
-public class Moto {
-    
+public class Moto extends Vehiculo {
+    private String cilindraje;
+    private String tipoMotor;
+    private Boolean 
 }
